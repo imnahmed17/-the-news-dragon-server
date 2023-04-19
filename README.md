@@ -1,3 +1,6 @@
+# the-news-dragon-server
+Containing some live json files
+
 ## Resources & Credits
 [Express js](https://expressjs.com/en/starter/installing.html)
 
